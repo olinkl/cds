@@ -146,6 +146,8 @@ github.com/fsamin/go-repo v0.1.4 h1:P70wyLGKAHeaVDuxHckc1mCM1tsqDsTNGrF/tu1+Z1s=
 github.com/fsamin/go-repo v0.1.4/go.mod h1:V7Te54EYyamyQIp6UKfONBbXBlPF4u3C1bvcH7OtdLM=
 github.com/fsamin/go-repo v0.1.5 h1:YON5aisDn+0DpJlXvqrPT9/EGv13JgYL3X/3GXRlLhY=
 github.com/fsamin/go-repo v0.1.5/go.mod h1:V7Te54EYyamyQIp6UKfONBbXBlPF4u3C1bvcH7OtdLM=
+github.com/fsamin/go-repo v0.1.6-0.20200325171328-7416ad53ca05 h1:TBeLeidBadk36qDVr/dgQnyHFOVFs/ckW3Ssf43a6So=
+github.com/fsamin/go-repo v0.1.6-0.20200325171328-7416ad53ca05/go.mod h1:JRLbo6sPXvAwwGs5RgifFk1pXiefeGf0hyHifEg1Vw4=
 github.com/fsamin/go-shredder v0.0.0-20180118184739-b2488aedb5be h1:UhjSvwE1gxUYfekK9BXZ/LL55we9Avg+2Pt0PIlMYCk=
 github.com/fsamin/go-shredder v0.0.0-20180118184739-b2488aedb5be/go.mod h1:kuiNcf1lKxl4isIY6bHxbBatpLD43c2RKWIV/AGlhXY=
 github.com/fsnotify/fsnotify v1.4.7 h1:IXs+QLmnXW2CcXuY+8Mzv/fWEsPGWxqefPtCP5CnV9I=
@@ -541,6 +543,8 @@ github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UV
 github.com/stretchr/testify v1.3.1-0.20190311161405-34c6fa2dc709/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.4.0 h1:2E4SXV/wtOkTonXsotYi4li6zVWxYlZuYNCXe9XRJyk=
 github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
+github.com/stretchr/testify v1.5.1 h1:nOGnQDM7FYENwehXlg/kFVnos3rEvtKTjRvOWSzb6H4=
+github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=
 github.com/tevino/abool v0.0.0-20170917061928-9b9efcf221b5 h1:hNna6Fi0eP1f2sMBe/rJicDmaHmoXGe1Ta84FPYHLuE=
 github.com/tevino/abool v0.0.0-20170917061928-9b9efcf221b5/go.mod h1:f1SCnEOt6sc3fOJfPQDRDzHOtSXuTtnz0ImG9kPRDV0=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5 h1:LnC5Kc/wtumK+WB441p7ynQJzVuNRJiqddSIE3IlSEQ=
